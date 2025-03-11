@@ -10,7 +10,7 @@ const Parent= React.createElement("div",{id:"Parent"},
             React.createElement("h3",{},"A nESTED Take on heading 3"),
             React.createElement("h4",{},"A nESTED Take on heading 4"),
         ]),
-
+//THE [] TAGS ARE USED AS THE ABOVE CODE BECOMES AN ARRAY
 );
         console.log(Parent);
         root.render(Parent);
